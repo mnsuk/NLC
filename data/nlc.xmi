@@ -1,0 +1,81 @@
+<?xml version="1.1" encoding="UTF-8"?><xmi:XMI xmlns:uimatypes="http:///com/ibm/langware/uimatypes.ecore" xmlns:tcas="http:///uima/tcas.ecore" xmlns:xmi="http://www.omg.org/XMI" xmlns:cas="http:///uima/cas.ecore" xmlns:nlp="http:///com/ibm/es/nlp.ecore" xmlns:pas="http:///com/ibm/es/nlp/pas.ecore" xmlns:tt="http:///uima/tt.ecore" xmi:version="2.0">
+    <cas:NULL xmi:id="0"/>
+    <tcas:DocumentAnnotation xmi:id="8" sofa="1" begin="0" end="80" language="en" languageCandidates="68 61 54 47 40 33 26 19"/>
+    <uimatypes:Punctuation xmi:id="78" sofa="1" begin="0" end="1" dictionaryMatch="false" posTag="''" takmiPOS="residual">
+        <ftrs>symbol</ftrs>
+        <ftrs>unk</ftrs>
+    </uimatypes:Punctuation>
+    <uimatypes:Punctuation xmi:id="299" sofa="1" begin="74" end="77" dictionaryMatch="false" posTag=")" takmiPOS="residual">
+        <ftrs>symbol</ftrs>
+        <ftrs>unk</ftrs>
+    </uimatypes:Punctuation>
+    <uimatypes:TitlecaseAlphabetic xmi:id="91" sofa="1" begin="1" end="4" lemma="316" lemmaEntries="316" dictionaryMatch="true" posTag="WRB" takmiPOS="adverb">
+        <ftrs>wh</ftrs>
+    </uimatypes:TitlecaseAlphabetic>
+    <uimatypes:LowercaseAlphabetic xmi:id="104" sofa="1" begin="5" end="9" lemma="326" lemmaEntries="326" dictionaryMatch="true" posTag="QT" takmiPOS="adjective">
+        <ftrs>quantifier</ftrs>
+    </uimatypes:LowercaseAlphabetic>
+    <uimatypes:LowercaseAlphabetic xmi:id="117" sofa="1" begin="10" end="20" lemma="336" lemmaEntries="336" dictionaryMatch="true" posTag="NNS" takmiPOS="noun">
+        <ftrs>plural</ftrs>
+    </uimatypes:LowercaseAlphabetic>
+    <uimatypes:LowercaseAlphabetic xmi:id="130" sofa="1" begin="21" end="23" lemma="346" lemmaEntries="346" dictionaryMatch="true" posTag="VBP" takmiPOS="verb">
+        <ftrs>singular</ftrs>
+        <ftrs>present</ftrs>
+    </uimatypes:LowercaseAlphabetic>
+    <uimatypes:LowercaseAlphabetic xmi:id="143" sofa="1" begin="24" end="27" lemma="357" lemmaEntries="357" dictionaryMatch="true" posTag="PRP" takmiPOS="pronoun">
+        <ftrs>personal</ftrs>
+    </uimatypes:LowercaseAlphabetic>
+    <uimatypes:LowercaseAlphabetic xmi:id="156" sofa="1" begin="28" end="32" lemma="367" lemmaEntries="367" dictionaryMatch="true" posTag="VB" takmiPOS="verb"/>
+    <uimatypes:LowercaseAlphabetic xmi:id="169" sofa="1" begin="33" end="35" lemma="374" lemmaEntries="374" dictionaryMatch="true" posTag="TO" takmiPOS="adposition">
+        <ftrs>to</ftrs>
+        <ftrs>preposition</ftrs>
+    </uimatypes:LowercaseAlphabetic>
+    <uimatypes:LowercaseAlphabetic xmi:id="182" sofa="1" begin="36" end="41" lemma="385" lemmaEntries="385" dictionaryMatch="true" posTag="VB" takmiPOS="verb"/>
+    <uimatypes:LowercaseAlphabetic xmi:id="195" sofa="1" begin="42" end="43" lemma="392" lemmaEntries="392" dictionaryMatch="true" posTag="DT" takmiPOS="determiner"/>
+    <uimatypes:LowercaseAlphabetic xmi:id="208" sofa="1" begin="44" end="47" lemma="399" lemmaEntries="399" dictionaryMatch="true" posTag="NN" takmiPOS="noun">
+        <ftrs>singular</ftrs>
+    </uimatypes:LowercaseAlphabetic>
+    <uimatypes:LowercaseAlphabetic xmi:id="221" sofa="1" begin="48" end="50" lemma="409" lemmaEntries="409" dictionaryMatch="true" posTag="TO" takmiPOS="adposition">
+        <ftrs>to</ftrs>
+        <ftrs>preposition</ftrs>
+    </uimatypes:LowercaseAlphabetic>
+    <uimatypes:LowercaseAlphabetic xmi:id="234" sofa="1" begin="51" end="53" lemma="420" lemmaEntries="420" dictionaryMatch="true" posTag="VB" takmiPOS="verb"/>
+    <uimatypes:LowercaseAlphabetic xmi:id="247" sofa="1" begin="54" end="61" lemma="427" lemmaEntries="427" dictionaryMatch="true" posTag="VBN" takmiPOS="verb">
+        <ftrs>pastParticiple</ftrs>
+    </uimatypes:LowercaseAlphabetic>
+    <uimatypes:LowercaseAlphabetic xmi:id="260" sofa="1" begin="62" end="64" lemma="437" lemmaEntries="437" dictionaryMatch="true" posTag="IN" takmiPOS="adposition">
+        <ftrs>preposition</ftrs>
+    </uimatypes:LowercaseAlphabetic>
+    <uimatypes:LowercaseAlphabetic xmi:id="273" sofa="1" begin="65" end="67" lemma="447" lemmaEntries="447" dictionaryMatch="true" posTag="DT" takmiPOS="determiner"/>
+    <uimatypes:LowercaseAlphabetic xmi:id="286" sofa="1" begin="68" end="74" lemma="454" lemmaEntries="454" dictionaryMatch="true" posTag="NN" takmiPOS="noun">
+        <ftrs>singular</ftrs>
+    </uimatypes:LowercaseAlphabetic>
+    <tt:SentenceAnnotation xmi:id="468" sofa="1" begin="0" end="78" sentenceNumber="1"/>
+    <tt:ParagraphAnnotation xmi:id="473" sofa="1" begin="0" end="80" paragraphNumber="1"/>
+    <cas:Sofa xmi:id="1" sofaNum="1" sofaID="_InitialView" mimeType="text" sofaString="&quot;How many cigarettes do you need to smoke a day to be classed as an addict?&quot;,&#13;&#10; "/>
+    <tt:LanguageConfidencePair xmi:id="68" languageConfidence="1.0" language="en" languageID="0"/>
+    <tt:LanguageConfidencePair xmi:id="61" languageConfidence="0.0" language="pt" languageID="0"/>
+    <tt:LanguageConfidencePair xmi:id="54" languageConfidence="0.0" language="pl" languageID="0"/>
+    <tt:LanguageConfidencePair xmi:id="47" languageConfidence="0.0" language="de" languageID="0"/>
+    <tt:LanguageConfidencePair xmi:id="40" languageConfidence="0.0" language="hu" languageID="0"/>
+    <tt:LanguageConfidencePair xmi:id="33" languageConfidence="0.0" language="cs" languageID="0"/>
+    <tt:LanguageConfidencePair xmi:id="26" languageConfidence="0.0" language="fr" languageID="0"/>
+    <tt:LanguageConfidencePair xmi:id="19" languageConfidence="0.0" language="ca" languageID="0"/>
+    <tt:Lemma xmi:id="316" key="how" partOfSpeech="5" frost_ExtendedPOS="0"/>
+    <tt:Lemma xmi:id="326" key="many" partOfSpeech="10" frost_ExtendedPOS="0"/>
+    <tt:Lemma xmi:id="336" key="cigarette" partOfSpeech="3" frost_ExtendedPOS="0"/>
+    <tt:Lemma xmi:id="346" key="do" partOfSpeech="2" frost_ExtendedPOS="0"/>
+    <tt:Lemma xmi:id="357" key="you" partOfSpeech="1" frost_ExtendedPOS="0"/>
+    <tt:Lemma xmi:id="367" key="need" partOfSpeech="2" frost_ExtendedPOS="0"/>
+    <tt:Lemma xmi:id="374" key="to" partOfSpeech="6" frost_ExtendedPOS="0"/>
+    <tt:Lemma xmi:id="385" key="smoke" partOfSpeech="2" frost_ExtendedPOS="0"/>
+    <tt:Lemma xmi:id="392" key="a" partOfSpeech="9" frost_ExtendedPOS="0"/>
+    <tt:Lemma xmi:id="399" key="day" partOfSpeech="3" frost_ExtendedPOS="0"/>
+    <tt:Lemma xmi:id="409" key="to" partOfSpeech="6" frost_ExtendedPOS="0"/>
+    <tt:Lemma xmi:id="420" key="be" partOfSpeech="2" frost_ExtendedPOS="0"/>
+    <tt:Lemma xmi:id="427" key="class" partOfSpeech="2" frost_ExtendedPOS="0"/>
+    <tt:Lemma xmi:id="437" key="as" partOfSpeech="6" frost_ExtendedPOS="0"/>
+    <tt:Lemma xmi:id="447" key="an" partOfSpeech="9" frost_ExtendedPOS="0"/>
+    <tt:Lemma xmi:id="454" key="addict" partOfSpeech="3" frost_ExtendedPOS="0"/>
+    <cas:View sofa="1" members="8 78 299 91 104 117 130 143 156 169 182 195 208 221 234 247 260 273 286 468 473"/>
+</xmi:XMI>
